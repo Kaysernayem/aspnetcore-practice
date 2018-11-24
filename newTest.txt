@@ -1,1 +1,8 @@
-AVBFGS
+1. latest pull
+2. dotnet restore
+3. git checkout -b practice
+4. add-migration
+5. update-database
+6. git checkout -b practice
+7. git remote set-url origin https://github.com/Kaysernayem/aspnetcore-practice.git
+8. git remote add upstream https://github.com/shirajulmamun/aspnetcore-practice.git
